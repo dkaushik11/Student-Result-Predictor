@@ -30,4 +30,5 @@ The code in `main.py` follows these steps:
 ## How to Run
 1. Install the necessary libraries:
    ```bash
+
    pip install pandas scikit-learn
